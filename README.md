@@ -1,5 +1,5 @@
 # brute-force for use in CSC 445 Computational Complexity and Modeling, Berea College
 
-Submission by:
+Submission by: 
 
-Names: FIXME
+Names: gule, heigleyj, coxj2, karakostasz
